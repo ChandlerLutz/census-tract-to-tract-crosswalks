@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+*~
+*.#-emacs*
+*emacs*
+*.el
+.DS_Store
+.Rhistory
+## Directories
+data-raw/
+work/
